@@ -1,2 +1,2 @@
 # fpage
-first ghub page
+first ghub page static website hosted
